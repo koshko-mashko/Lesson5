@@ -1,3 +1,12 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
 }
+h1, h2 {
+    color:rgb(6, 182, 241)
+}
+.cookie-img {
+    background-color:bisque;
+}
+p {
+    font-size:large;
+}
