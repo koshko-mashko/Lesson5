@@ -4,9 +4,27 @@
 h1, h2 {
     color:rgb(6, 182, 241)
 }
-.cookie-img {
-    background-color:bisque;
+img {
+    align: center;
+    background-color:bisque;   
+    width: 320px;
+    height: 320px;
+    padding: 50px;;
+    border: 3px solid rgb(6, 182, 241);
+    margin: 20px;
 }
 p {
-    font-size:large;
+    font-size: large;
+    text-align: center;
+}
+tr, td {
+    border: 3px solid rgb(6, 182, 241);
+    padding-left: 15px;
+    text-align: center;
+}
+tr:hover {
+    background-color: rgb(6, 182, 241);
+}
+table {
+    background-color:bisque;
 }
